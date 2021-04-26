@@ -1,0 +1,16 @@
+!info:
+	reacciona a 
+		bieja  -> tonta 
+		marcos
+		juan
+		seba
+		que -> sito
+
+	comandos
+		!cumpleactualizar
+		cumpleadd
+		cumpleformat
+		cumpleimprimir
+		clear
+		
+		
